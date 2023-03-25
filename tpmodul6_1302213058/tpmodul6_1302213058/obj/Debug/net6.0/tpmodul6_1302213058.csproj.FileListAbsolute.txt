@@ -1,0 +1,15 @@
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\bin\Debug\net6.0\tpmodul6_1302213058.exe
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\bin\Debug\net6.0\tpmodul6_1302213058.deps.json
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\bin\Debug\net6.0\tpmodul6_1302213058.runtimeconfig.json
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\bin\Debug\net6.0\tpmodul6_1302213058.dll
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\bin\Debug\net6.0\tpmodul6_1302213058.pdb
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.csproj.AssemblyReference.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.AssemblyInfoInputs.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.AssemblyInfo.cs
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.csproj.CoreCompileInputs.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.dll
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\refint\tpmodul6_1302213058.dll
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.pdb
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\tpmodul6_1302213058.genruntimeconfig.cache
+E:\DATA KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak (KPL)\TP Mod 6\tpmodul6_1302213058\tpmodul6_1302213058\obj\Debug\net6.0\ref\tpmodul6_1302213058.dll
